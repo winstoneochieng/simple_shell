@@ -1,6 +1,6 @@
 # 0x16. C - Simple Shell :shell:
 
-![Alt Text](https://bigstep.com/assets/images/blog/top-5-linux-shells-and-how-to-install-them.jpg)
+![Alt Text](https://www.howtogeek.com/wp-content/uploads/2021/05/laptop-with-terminal-big.png?width=1198&trim=1,1&bg-color=000&pad=1,1)
 
 ## Description
 simple_shell is a command line interpreter, or shell, in the tradition of the first Unix shell written by Ken Thompson in 1971. This shell is intentionally minimalistic, yet includes the basic functionality of a traditional Unix-like command line user interface. 
