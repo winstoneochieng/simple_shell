@@ -29,7 +29,7 @@ Standard functions and system calls employed in simple_shell include:
 - How to suspend the execution of a process until one of its children terminates
 - What is EOF / “end-of-file”?
 
-## File Structure
+## File Structure :file_folder:
 * [AUTHORS](AUTHORS) - List of contributors to this repository
 * [man_1_simple_shell](man_1_simple_shell) - Manual page for the simple_shell
 * [shell.h](shell.h) - program header file
