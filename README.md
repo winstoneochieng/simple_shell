@@ -92,7 +92,7 @@ simple_shell is designed to run in the `Ubuntu 14.04 LTS` linux environment and 
 ## Acknowledgements :pray:
 
 
-This project was written as part of the curriculum for ALX Software Engineering Program in partnership with Holberton School and it emulates basic functionality of the **sh** shell. Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.holbertonschool.com/).
+This project was written as part of the curriculum for ALX Software Engineering Program in partnership with Holberton School and it emulates basic functionality of the **sh** shell. Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com/).
 
 <p align="center">
   <img src="https://alx-apply.hbtn.io/brand_alx/share_image_2019.jpg" alt="ALX logo">
