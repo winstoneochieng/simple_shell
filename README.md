@@ -7,6 +7,28 @@ simple_shell is a command line interpreter, or shell, in the tradition of the fi
 Standard functions and system calls employed in simple_shell include:
    `access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write.`
 
+## Resources
+- Unix shell
+- Thompson Shell
+- Ken Thompson
+- man `sh`
+
+## General Topics
+- Who designed and implemented the original Unix operating system
+- Who wrote the first version of the UNIX shell
+- Who invented the B programming language (the direct predecessor to the C programming language)
+- Who is Ken Thompson-
+- How does a shell work
+- What is a pid and a ppid
+- How to manipulate the environment of the current process
+- What is the difference between a function and a system call
+- How to create processes
+- What are the three prototypes of main
+- How does the shell use the PATH to find the programs
+- How to execute another program with the execve system call
+- How to suspend the execution of a process until one of its children terminates
+- What is EOF / “end-of-file”?
+
 ## File Structure
 * [AUTHORS](AUTHORS) - List of contributors to this repository
 * [man_1_simple_shell](man_1_simple_shell) - Manual page for the simple_shell
