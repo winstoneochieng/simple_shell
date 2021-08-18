@@ -65,4 +65,4 @@ simple_shell is designed to run in the `Ubuntu 14.04 LTS` linux environment and 
 | Authors     | Profile |
 | ----------- | ----------- |
 | Winstone Ochieng     | [Winstone Ochieng](https://www.winweb.cloudrebue.co.ke)      |
-| Hewan Tegenie  | [Hewan](https://github.com/Hewan2568)        |
+| Hewan Tegenie  | [Hewan Tegenie](https://github.com/Hewan2568)        |
