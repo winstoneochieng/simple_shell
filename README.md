@@ -7,13 +7,13 @@ simple_shell is a command line interpreter, or shell, in the tradition of the fi
 Standard functions and system calls employed in simple_shell include:
    `access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write.`
 
-## Resources
+## Resources :bookmark_tabs:
 - Unix shell
 - Thompson Shell
 - Ken Thompson
 - man `sh`
 
-## General Topics
+### General Topics
 - Who designed and implemented the original Unix operating system
 - Who wrote the first version of the UNIX shell
 - Who invented the B programming language (the direct predecessor to the C programming language)
